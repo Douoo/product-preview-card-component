@@ -11,7 +11,6 @@
   - [What I learned](#what-i-learned)
   - [Useful resources](#useful-resources)
 - [Author](#author)
-- [Acknowledgments](#acknowledgments)
 
 
 ## Overview
@@ -30,12 +29,12 @@ Users should be able to:
 
 A screenshot overview of the web page:
 
-![](./screenshot-56.png)
+![](https://github.com/Douoo/product-preview-card-component/blob/main/Screenshot-56.png)
 
 ### Links
 
 
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Add live site URL here](https://douoo.github.io/product-preview-card-component/)
 - GitHub URL: [Add solution URL here](https://github.com/Douoo/product-preview-card-component)
 
 ## My process
@@ -44,7 +43,7 @@ A screenshot overview of the web page:
 
 - Semantic HTML5 markup
 - CSS Grid and Flexbox
-- Desktop to Mobile Design
+- Desktop first, then Mobile Design
 
 ### What I learned
 
