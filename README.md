@@ -34,8 +34,8 @@ A screenshot overview of the web page:
 ### Links
 
 
-- Live Site URL: [Add live site URL here](https://douoo.github.io/product-preview-card-component/)
-- GitHub URL: [Add solution URL here](https://github.com/Douoo/product-preview-card-component)
+- Live Site URL: [Live site URL here](https://douoo.github.io/product-preview-card-component/)
+- GitHub URL: [URL to code](https://github.com/Douoo/product-preview-card-component)
 
 ## My process
 
